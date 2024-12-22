@@ -1,0 +1,4 @@
+#Mon Jul 03 23:48:43 WITA 2023
+base.0=D\:\\Flutter\\Project\\simor\\android\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

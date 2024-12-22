@@ -1,0 +1,17 @@
+com.example.simor.app-jetified-window-1.0.0-beta04-0 C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\res
+com.example.simor.app-jetified-window-java-1.0.0-beta04-1 C:\Users\rijal\.gradle\caches\transforms-3\7c3f00c2335771859546f46efeddbf13\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.simor.app-core-1.6.0-2 C:\Users\rijal\.gradle\caches\transforms-3\89766d7d59fc7fc8d6e3690bb36b7e4a\transformed\core-1.6.0\res
+com.example.simor.app-jetified-annotation-experimental-1.1.0-3 C:\Users\rijal\.gradle\caches\transforms-3\cba5034dea4c669b2d400a2c38d489c3\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.simor.app-packaged_res-4 C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android-0.10.8+3\android\build\intermediates\packaged_res\release
+com.example.simor.app-packaged_res-5 C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.15\android\build\intermediates\packaged_res\release
+com.example.simor.app-packaged_res-6 C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\nfc_manager-3.3.0\android\build\intermediates\packaged_res\release
+com.example.simor.app-packaged_res-7 C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.0\android\build\intermediates\packaged_res\release
+com.example.simor.app-packaged_res-8 C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\packaged_res\release
+com.example.simor.app-pngs-9 D:\Flutter\Project\simor\android\app\build\generated\res\pngs\release
+com.example.simor.app-resValues-10 D:\Flutter\Project\simor\android\app\build\generated\res\resValues\release
+com.example.simor.app-rs-11 D:\Flutter\Project\simor\android\app\build\generated\res\rs\release
+com.example.simor.app-mergeReleaseResources-12 D:\Flutter\Project\simor\android\app\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.simor.app-mergeReleaseResources-13 D:\Flutter\Project\simor\android\app\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.simor.app-merged_res-14 D:\Flutter\Project\simor\android\app\build\intermediates\merged_res\release
+com.example.simor.app-main-15 D:\Flutter\Project\simor\android\app\src\main\res
+com.example.simor.app-release-16 D:\Flutter\Project\simor\android\app\src\release\res

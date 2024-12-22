@@ -1,0 +1,105 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.simor"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:4:5-65
+11-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:4:22-62
+12    <uses-permission android:name="android.permission.NFC" />
+12-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:5:5-62
+12-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:5:22-59
+13    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+13-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:6:5-77
+13-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:6:22-74
+14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+14-->[:camera_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android-0.10.8+3\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-71
+14-->[:camera_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android-0.10.8+3\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-68
+15
+16    <application
+17        android:name="android.app.Application"
+17-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:10:9-42
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.6.0] C:\Users\rijal\.gradle\caches\transforms-3\89766d7d59fc7fc8d6e3690bb36b7e4a\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+19        android:icon="@mipmap/ic_launcher"
+19-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:11:9-43
+20        android:label="simor" >
+20-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:9:9-30
+21        <activity
+21-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:13:9-25:20
+22            android:name="com.example.simor.MainActivity"
+22-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:14:13-41
+23            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+23-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:18:13-163
+24            android:exported="true"
+24-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:15:13-36
+25            android:hardwareAccelerated="true"
+25-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:19:13-47
+26            android:launchMode="singleTop"
+26-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:16:13-43
+27            android:theme="@style/LaunchTheme"
+27-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:17:13-47
+28            android:windowSoftInputMode="adjustResize" >
+28-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:20:13-55
+29            <intent-filter>
+29-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:21:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:22:17-68
+30-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:22:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:23:17-76
+32-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:23:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:27:9-31:58
+36            android:name="io.flutter.embedding.android.FlutterActivity"
+36-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:28:13-72
+37            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+37-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:29:13-163
+38            android:hardwareAccelerated="true"
+38-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:30:13-47
+39            android:windowSoftInputMode="adjustResize" />
+39-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:31:13-55
+40
+41        <!-- Add your other activities here if needed -->
+42
+43        <meta-data
+43-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:35:9-37:33
+44            android:name="flutterEmbedding"
+44-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:36:13-44
+45            android:value="2" />
+45-->D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:37:13-30
+46
+47        <activity
+47-->[:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
+48            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+48-->[:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
+49            android:exported="false"
+49-->[:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
+50            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+50-->[:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
+51
+52        <uses-library
+52-->[androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+53            android:name="androidx.window.extensions"
+53-->[androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+54            android:required="false" />
+54-->[androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+55        <uses-library
+55-->[androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+56            android:name="androidx.window.sidecar"
+56-->[androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+57            android:required="false" />
+57-->[androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+58    </application>
+59
+60</manifest>

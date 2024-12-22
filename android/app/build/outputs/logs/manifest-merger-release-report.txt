@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+application
+INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:8:5-38:19
+MERGED from [:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\rijal\.gradle\caches\transforms-3\89766d7d59fc7fc8d6e3690bb36b7e4a\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\rijal\.gradle\caches\transforms-3\89766d7d59fc7fc8d6e3690bb36b7e4a\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rijal\.gradle\caches\transforms-3\ced32f29a036624fcee3c102df5f076d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rijal\.gradle\caches\transforms-3\ced32f29a036624fcee3c102df5f076d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\rijal\.gradle\caches\transforms-3\89766d7d59fc7fc8d6e3690bb36b7e4a\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:9:9-30
+	android:icon
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:11:9-43
+	android:name
+		INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:10:9-42
+manifest
+ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [:shared_preferences_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:camera_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android-0.10.8+3\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-12:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.15\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-16:12
+MERGED from [:nfc_manager] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\nfc_manager-3.3.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\7c3f00c2335771859546f46efeddbf13\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rijal\.gradle\caches\transforms-3\d833df6e4aa3703f26d916b2119f3103\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\595d6f5ec2a32b18a0a929af79e9c217\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\d31416bf3b7101f1cffdb06a14f1b2b7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\067227d46f3500a7ddd92b751ecb5fd8\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\250db50935f9e5ccc08215fc67bb9fb3\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\rijal\.gradle\caches\transforms-3\89766d7d59fc7fc8d6e3690bb36b7e4a\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\rijal\.gradle\caches\transforms-3\6eb43d6101a70e9eb648ed7bdbc25430\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\9c2e939513d451c910a47b51587a2963\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rijal\.gradle\caches\transforms-3\984458306690357f412fd092257314a4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rijal\.gradle\caches\transforms-3\1887ebcd4b079925c70853b25c53ef87\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\a13343be97cb89022ad3e774c1010fbd\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rijal\.gradle\caches\transforms-3\04617757a727057cfd019a462899c89d\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rijal\.gradle\caches\transforms-3\ced32f29a036624fcee3c102df5f076d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rijal\.gradle\caches\transforms-3\2af8c3fa8991e65967f98111460caef7\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\rijal\.gradle\caches\transforms-3\cba5034dea4c669b2d400a2c38d489c3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:4:5-65
+MERGED from [:camera_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android-0.10.8+3\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-65
+MERGED from [:camera_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android-0.10.8+3\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:4:22-62
+uses-permission#android.permission.NFC
+ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:5:5-62
+	android:name
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:5:22-59
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:6:22-74
+uses-sdk
+INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:camera_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android-0.10.8+3\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:camera_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android-0.10.8+3\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.15\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.15\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:nfc_manager] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\nfc_manager-3.3.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:nfc_manager] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\nfc_manager-3.3.0\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\7c3f00c2335771859546f46efeddbf13\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\7c3f00c2335771859546f46efeddbf13\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rijal\.gradle\caches\transforms-3\d833df6e4aa3703f26d916b2119f3103\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\rijal\.gradle\caches\transforms-3\d833df6e4aa3703f26d916b2119f3103\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\595d6f5ec2a32b18a0a929af79e9c217\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\595d6f5ec2a32b18a0a929af79e9c217\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\d31416bf3b7101f1cffdb06a14f1b2b7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\d31416bf3b7101f1cffdb06a14f1b2b7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\067227d46f3500a7ddd92b751ecb5fd8\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\067227d46f3500a7ddd92b751ecb5fd8\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\250db50935f9e5ccc08215fc67bb9fb3\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\250db50935f9e5ccc08215fc67bb9fb3\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\rijal\.gradle\caches\transforms-3\89766d7d59fc7fc8d6e3690bb36b7e4a\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\rijal\.gradle\caches\transforms-3\89766d7d59fc7fc8d6e3690bb36b7e4a\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\rijal\.gradle\caches\transforms-3\6eb43d6101a70e9eb648ed7bdbc25430\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\rijal\.gradle\caches\transforms-3\6eb43d6101a70e9eb648ed7bdbc25430\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\9c2e939513d451c910a47b51587a2963\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\9c2e939513d451c910a47b51587a2963\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rijal\.gradle\caches\transforms-3\984458306690357f412fd092257314a4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\rijal\.gradle\caches\transforms-3\984458306690357f412fd092257314a4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rijal\.gradle\caches\transforms-3\1887ebcd4b079925c70853b25c53ef87\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\rijal\.gradle\caches\transforms-3\1887ebcd4b079925c70853b25c53ef87\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\a13343be97cb89022ad3e774c1010fbd\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\rijal\.gradle\caches\transforms-3\a13343be97cb89022ad3e774c1010fbd\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rijal\.gradle\caches\transforms-3\04617757a727057cfd019a462899c89d\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\rijal\.gradle\caches\transforms-3\04617757a727057cfd019a462899c89d\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rijal\.gradle\caches\transforms-3\ced32f29a036624fcee3c102df5f076d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rijal\.gradle\caches\transforms-3\ced32f29a036624fcee3c102df5f076d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rijal\.gradle\caches\transforms-3\2af8c3fa8991e65967f98111460caef7\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\rijal\.gradle\caches\transforms-3\2af8c3fa8991e65967f98111460caef7\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\rijal\.gradle\caches\transforms-3\cba5034dea4c669b2d400a2c38d489c3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\rijal\.gradle\caches\transforms-3\cba5034dea4c669b2d400a2c38d489c3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml
+activity#com.example.simor.MainActivity
+ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:13:9-25:20
+	android:launchMode
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:16:13-43
+	android:hardwareAccelerated
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:20:13-55
+	android:exported
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:15:13-36
+	android:configChanges
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:18:13-163
+	android:theme
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:23:27-74
+activity#io.flutter.embedding.android.FlutterActivity
+ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:27:9-31:58
+	android:hardwareAccelerated
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:30:13-47
+	android:windowSoftInputMode
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:31:13-55
+	android:configChanges
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:29:13-163
+	android:name
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:28:13-72
+meta-data#flutterEmbedding
+ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:35:9-37:33
+	android:value
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:37:13-30
+	android:name
+		ADDED from D:\Flutter\Project\simor\android\app\src\main\AndroidManifest.xml:36:13-44
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android-0.10.8+3\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from [:camera_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android-0.10.8+3\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-68
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\rijal\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.0.36\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\rijal\.gradle\caches\transforms-3\196fed55f097d803ed8689c12e879c52\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51

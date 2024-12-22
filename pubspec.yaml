@@ -1,0 +1,57 @@
+name: simor
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0-290.3.beta <4.0.0"
+
+dependencies:
+  bloc: ^8.1.1
+  camera: ^0.10.4
+  cupertino_icons: ^1.0.2
+  custom_refresh_indicator: ^2.0.1
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+  flutter_screenutil: ^5.7.0
+  flutter_svg: ^2.0.5
+  get_it: ^7.6.0
+  http: ^1.0.0
+  intl: ^0.17.0
+  logger: ^1.4.0
+  shimmer: ^3.0.0
+  nfc_manager: ^3.2.0
+  url_launcher: ^6.1.11
+  dropdown_search: ^5.0.6
+  page_transition: ^2.0.9
+  shared_preferences: ^2.1.1
+  liquid_pull_to_refresh: ^3.0.1
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Black.ttf
+        - asset: assets/fonts/Montserrat-Bold.ttf
+        - asset: assets/fonts/Montserrat-ExtraBold.ttf
+        - asset: assets/fonts/Montserrat-ExtraLight.ttf
+        - asset: assets/fonts/Montserrat-Medium.ttf
+        - asset: assets/fonts/Montserrat-Regular.ttf
+        - asset: assets/fonts/Montserrat-SemiBold.ttf
+        - asset: assets/fonts/Montserrat-Thin.ttf
